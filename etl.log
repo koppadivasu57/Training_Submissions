@@ -1,0 +1,10 @@
+2025-12-15 22:41:10,581 - INFO - ETL pipeline started
+2025-12-15 22:41:10,581 - INFO - Extract step started
+2025-12-15 22:41:10,582 - INFO - Transform step started
+2025-12-15 22:41:10,585 - INFO - Data loaded into sales_output_20251215_224110.csv
+2025-12-15 22:41:10,586 - INFO - ETL pipeline completed
+2025-12-15 23:19:49,795 - INFO - ETL pipeline started
+2025-12-15 23:19:49,795 - INFO - Extract step started
+2025-12-15 23:19:49,795 - INFO - Transform step started
+2025-12-15 23:19:49,799 - INFO - Data loaded into sales_output_20251215_231949.csv
+2025-12-15 23:19:49,800 - INFO - ETL pipeline completed
